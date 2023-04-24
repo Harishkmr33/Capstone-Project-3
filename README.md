@@ -86,10 +86,10 @@ SVM Classifier
 * There are many phones with no front cam through out all price ranges, atleast it should be present in all very high cost phones.
 
 
-**ML Model selected for deployment: Logistic Regression**
-> Logistic Regression is a “Supervised machine learning” algorithm that can be used to model the probability of a certain class or event. It is used when the data is linearly separable and the outcome is binary or dichotomous in nature.
+# ML Model selected for deployment: Logistic Regression
+* Logistic Regression is a “Supervised machine learning” algorithm that can be used to model the probability of a certain class or event. It is used when the data is linearly separable and the outcome is binary or dichotomous in nature.
 
-> Although it is said Logistic regression is used for Binary Classification, it can be extended to solve multiclass classification problems as well.
+* Although it is said Logistic regression is used for Binary Classification, it can be extended to solve multiclass classification problems as well.
 
 **Advantages:**
 * **Simple and easy to implement**: Logistic regression is a relatively simple statistical method that does not require much mathematical or statistical knowledge to use.
