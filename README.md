@@ -39,13 +39,13 @@ Step 10: Predictions & Saving model using pickel library.
 
 # Libraries used in EDA & Machine Learning:
 
-Pandas
-Numpy
-Matplotib
-Seaborn
-Plotly
-Sklearn
-Scipy
+1. Pandas
+2. Numpy
+3. Matplotib
+4. Seaborn
+5. Plotly
+6. Sklearn
+7. Scipy
 
 # Graphs used for representation:
 
@@ -67,7 +67,7 @@ Light GBM Classifier
 CatBoost Classifier
 SVM Classifier
 
-**Insights from EDA impacting business:**
+# Insights from EDA impacting business:
 
 * Phones which are not having 3G don't have 4G connectivity as well.
 
@@ -79,7 +79,7 @@ SVM Classifier
 
 * Very high cost phones have larger battery size & mobile weight is lowest.
 
-**Suggestions provided to increase the Sales:**
+# Suggestions provided to increase the Sales:
 
 * Adequate amount of ram should be in lower range phones too for stabilized performance of phone which can effect the brand image in a positive way.
 
