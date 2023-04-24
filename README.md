@@ -14,7 +14,7 @@
 ![image](https://user-images.githubusercontent.com/122456211/234094195-29584707-0d2f-49a8-9be7-ed9590c2c2c5.png)
 
 
-Steps involved in building a ML Model:
+**Steps involved in building a ML Model:**
 
 Step 1: Data gathering and Understanding
 
@@ -49,23 +49,23 @@ Step 10: Predictions & Saving model using pickel library.
 
 # Graphs used for representation:
 
-Bar plot
-Pie plot
-Box Plot
-Grouped bar plot
-Donut plot
-Heatmap
-Pair plot
+1. Bar plot
+2. Pie plot
+3. Box Plot
+4. Bar plot
+5. Donut plot
+6. Heatmap
+7. Pair plot
 
 # ML Models used for training & testing:
 
-Logistic Regression
-KNN Classifier
-Random Forest Classifier
-XG Boost Classifier
-Light GBM Classifier
-CatBoost Classifier
-SVM Classifier
+1. Logistic Regression
+2. KNN Classifier
+3. Random Forest Classifier
+4. XG Boost Classifier
+5. Light GBM Classifier
+6. CatBoost Classifier
+7. SVM Classifier
 
 # Insights from EDA impacting business:
 
@@ -87,11 +87,13 @@ SVM Classifier
 
 
 # ML Model selected for deployment: Logistic Regression
+
 * Logistic Regression is a “Supervised machine learning” algorithm that can be used to model the probability of a certain class or event. It is used when the data is linearly separable and the outcome is binary or dichotomous in nature.
 
 * Although it is said Logistic regression is used for Binary Classification, it can be extended to solve multiclass classification problems as well.
 
 **Advantages:**
+
 * **Simple and easy to implement**: Logistic regression is a relatively simple statistical method that does not require much mathematical or statistical knowledge to use.
 
 * **Works well with small datasets**: Logistic regression can work well with small datasets, which is often the case in many practical applications.
@@ -108,6 +110,7 @@ SVM Classifier
 
 
 **Suggestion:**
+
 * When we are dealing with huge datasets & above disavantages starts effecting the model, then using CatBoost Classifier can provide better results.
 
 
