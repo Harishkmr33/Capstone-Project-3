@@ -1,6 +1,5 @@
-** Capstone-Project-3 **
 
-** Problem Overview **
+**Problem Overview**
 
 * Mobile Price Range Prediction data is a data set containing information regarding RAM, Camera, Mobile Weight, Price Range of different phones.
 
